@@ -88,7 +88,7 @@ streamlit run navegation.py
 <details>
 <summary>📸 View Home Page Template</summary>
 
-![Home Page](https://github.com/TsLu1s/env/blob/main/ollama-chatbot-interface/src/imgs/home_page.jpg)
+![Home Page](https://github.com/TsLu1s/ollama-chatbot-interface/blob/main/imgs/home_page.jpg)
 </details>
 
 ### Model Management
@@ -100,7 +100,7 @@ streamlit run navegation.py
 <details>
 <summary>📸 View Model Management Template</summary>
 
-![Model Management](https://github.com/TsLu1s/env/blob/main/ollama-chatbot-interface/imgs/models_page.jpg)
+![Model Management](https://github.com/TsLu1s/ollama-chatbot-interface/blob/main/imgs/models_page.jpg)
 </details>
 
 ### Chat Interface
@@ -112,7 +112,7 @@ streamlit run navegation.py
 <details>
 <summary>📸 View Chat Interface Template</summary>
 
-![Chat Interface](https://github.com/TsLu1s/env/blob/main/ollama-chatbot-interface/imgs/chat_page.jpg)
+![Chat Interface](https://github.com/TsLu1s/ollama-chatbot-interface/blob/main/imgs/chat_page.jpg)
 </details>
 
 ## 🤝 Contributing
