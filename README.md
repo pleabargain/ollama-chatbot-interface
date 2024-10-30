@@ -4,10 +4,10 @@
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/luísfssantos/
-[contributors-shield]: https://img.shields.io/github/contributors/TsLu1s/SegmentAE.svg?style=for-the-badge&logo=github&logoColor=white
-[contributors-url]: https://github.com/TsLu1s/SegmentAE/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/TsLu1s/SegmentAE.svg?style=for-the-badge&logo=opensource&logoColor=white
-[license-url]: https://github.com/TsLu1s/SegmentAE/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/TsLu1s/ollama-chatbot-interface.svg?style=for-the-badge&logo=github&logoColor=white
+[contributors-url]: https://github.com/TsLu1s/ollama-chatbot-interface/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/TsLu1s/ollama-chatbot-interface.svg?style=for-the-badge&logo=opensource&logoColor=white
+[license-url]: https://github.com/TsLu1s/ollama-chatbot-interface/blob/main/LICENSE
 
 # Streamlit Ollama Chatbot Multi-Model Interface
 
@@ -128,7 +128,7 @@ streamlit run navegation.py
 
 ## 📄 License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/TsLu1s/SegmentAE/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/TsLu1s/ollama-chatbot-interface/blob/main/LICENSE) for more information.
 
 ## 🔗 Contact 
  
