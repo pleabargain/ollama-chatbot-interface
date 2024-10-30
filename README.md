@@ -34,9 +34,9 @@ An advanced and interactive Streamlit chatbot application that integrates multip
 
 ## STREAMLIT DEMO APP
 
-**Important Note:** Demo Version is not able to run Ollama API, run the app locally for full feature usability.
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ollama-chatbot-interface.streamlit.app/)
+
+**Important Note:** Demo Version is not able to run Ollama API, run the app locally for full feature usability.
 
 ## ⚙️ Installation
 
