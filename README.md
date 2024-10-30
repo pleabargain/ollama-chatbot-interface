@@ -20,9 +20,6 @@ An advanced and interactive Streamlit chatbot application that integrates multip
 - **Real-time Chat Interface**:  Clean interface with model-specific chat history and streamed responses.
 - **Responsive Design**: Modern, responsive UI with animated components and intuitive navigation.
 
-## STREAMLIT DEMO APP
-
-
 ## 👏 Acknowledgments
 
 * [Ollama](https://ollama.com/)
