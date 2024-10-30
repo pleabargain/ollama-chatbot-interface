@@ -14,7 +14,7 @@ def get_available_models():
                   not in model and model.strip()]
         return models
     except Exception as e:
-        st.error(f"Error fetching models: {e}")
+        st.error(f"Ollama is not running. Make sure to have Ollama API installed (PC Restart may be needed) | Error fetching models: {e}")
         return []
 
 def pull_model(model_name):
