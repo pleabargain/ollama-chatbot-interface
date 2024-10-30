@@ -32,7 +32,7 @@ An advanced and interactive Streamlit chatbot application that integrates multip
 - Streamlit
 - 8GB+ RAM (varies based on model size)
 
-## STREAMLIT DEMO APP
+## Streamlit Demo APP
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ollama-chatbot-interface.streamlit.app/)
 
