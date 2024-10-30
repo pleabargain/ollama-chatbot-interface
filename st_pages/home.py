@@ -6,6 +6,7 @@ def display_model_capabilities():
     
     # Styled download button for Ollama installation
     st.markdown("""
+        <p> After download PC Restart may be necessary.</p>
         <a href="https://ollama.com/download" target="_blank" class="custom-download-button2">
             Download Ollama
         </a>

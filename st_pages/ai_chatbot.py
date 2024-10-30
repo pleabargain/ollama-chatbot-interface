@@ -80,7 +80,7 @@ def run():
 
     # Main chat interface
     if not is_ollama_running():
-        st.warning("Ollama is not running. Click the button below to start it.")
+        st.warning("Ollama is not running. Make sure to have Ollama API installed (PC Restart may be needed).")
         if st.button("Start Ollama"):
             start_ollama()
         return

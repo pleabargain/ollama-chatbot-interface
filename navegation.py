@@ -128,7 +128,7 @@ st.markdown("""
     <div class="footer-content">
         <p>© 2024 Powered by <a href="https://github.com/TsLu1s" target="_blank">TsLu1s </a>. 
         Advanced Language Models & Intelligent Conversations.
-        | Source Code: <a href="https://github.com/TsLu1s/ollama-chatbot-interface" target="_blank"> Ollama Chatbot Interface</p>
+        | Project Source: <a href="https://github.com/TsLu1s/ollama-chatbot-interface" target="_blank"> Ollama Chatbot Interface</p>
     </div>
 </div>
 """, unsafe_allow_html=True)

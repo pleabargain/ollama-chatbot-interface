@@ -37,7 +37,7 @@ def run():
     st.markdown("""
     <div class="section-header">
         <h2>Download New Language Models</h2>
-        <p>Install models from the Ollama ibrary</p>
+        <p>Install models from the Ollama Library</p>
     </div>
     """, unsafe_allow_html=True)
 
