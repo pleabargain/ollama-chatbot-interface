@@ -15,7 +15,7 @@ An advanced and interactive Streamlit chatbot application that integrates multip
 
 ## 🌟 Key Features
 
-- **Multi-Model Support**: Seamlessly interact with various state-of-the-art Ollama language models including Llama, Mistral, Gemma, and 120+ more.
+- **Multi-Model Support**: Seamlessly interact with various state-of-the-art Ollama language models including Llama, Mistral, Gemma, and 125+ more.
 - **Model Management Interface**: Easy-to-use interface for downloading, managing, and switching between different language models.
 - **Real-time Chat Interface**:  Clean interface with model-specific chat history and streamed responses.
 - **Responsive Design**: Modern, responsive UI with animated components and intuitive navigation.
