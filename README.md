@@ -11,7 +11,7 @@
 
 # Streamlit Ollama Chatbot Multi-Model Interface
 
-An comprehensive and scalable Streamlit Chatbot Application that integrates multiple language models through the Ollama API, featuring a sophisticated multi language model management system with an intuitive user interface.
+A comprehensive and scalable Streamlit Chatbot Application that integrates multiple language models through the Ollama API, featuring a sophisticated multi language model management system with an intuitive user interface.
 
 ## 🌟 Key Features
 
